@@ -1,4 +1,4 @@
-jQuery Cycle plugin, wrapped in a meteor package.
+jQuery Cycle plugin, wrapped in a meteor package. (0.65+)
 
 Concerning this meteor package, not the underlying jQuery plugin:
 
