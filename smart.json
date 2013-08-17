@@ -1,0 +1,9 @@
+{
+  "name": "jquery-cycle",
+  "description": "jQuery Cycle - slideshow plugin that supports many different types of transition effects",
+  "homepage": "https://github.com/jamesdwilson/meteor-jquery-cycle",
+  "author": "James Wilson <james@jameswilson.name> package maintainer - Mike Alsup author of Cylce",
+  "version": "3.0.3",
+  "git": "https://github.com/jamesdwilson/meteor-jquery-cycle.git",
+  "packages": {}
+}
